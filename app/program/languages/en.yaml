@@ -1,0 +1,74 @@
+base:
+  association_name1: "Association"
+  association_name2: "\"Programming and Algorithms\""
+  association_name3: "Đakovo"
+  news: "News"
+  program: "Program"
+  about_us: "About&nbsp;us"
+  membership: "Membership"
+
+program:
+  title: Program for 2023 and 2024
+  description: >
+    The Programming and Algorithms Association will conduct lectures on the Python programming language, modeling in FreeCAD, and introduce the C++ and Rust programming languages for all members during 2023 and 2024.
+    Additionally, numerous workshops will be held with the aim of educating interested groups in the aforementioned areas. <br>
+  lectures: lectures
+  lectures_description: >
+    <p>
+      Lectures will be held throughout the calendar year, covering a wide range of topics in the Python programming language. The purpose of these lectures is to learn to apply advanced features of the language in specific areas of application. Modeling in FreeCAD will also be taught to a lesser extent.
+      Lectures are exclusively held for association members.
+    </p>
+    <p>
+      The lectures will start on Saturday, July 1, 2023, and will take place every other Saturday (every 2 weeks) from 9:00 AM to 12:00 PM, including 15-minute breaks.
+    </p>
+    <p>
+      The lectures will cover the following topics:<br>
+      <br>
+      • Python programming in the following areas: <br>
+      <p class="indented-tab">
+      1. Web development: creating a simple one-page website with a personal resume, creating a social network, web scraping<br>
+      2. Software development: creating invoicing applications, contract writing<br>
+      3. Game development: creating a Robocode game<br>
+      4. P2P technology: creating an email and chat application<br>
+      5. Blockchain technology: voting system for the association<br>
+      6. Data Science: application in finance<br>
+      7. Machine learning (ML): reviewing medical images and documentation to determine diseases based on symptoms<br>
+      8. Internet of things (IoT): application of Raspberry Pi in daily life<br>
+      9. Algorithms: application of basic algorithms
+      </p>
+      • Modeling in FreeCAD:
+      <p class="indented-tab">
+      1. 3D modeling<br>
+      2. 3D printing
+      </p>
+      • Introduction of C++ and Rust programming languages in lectures during 2024 in the following areas:
+      <p class="indented-tab">
+      1. Game development: creating professional games<br>
+      2. System development: improving the Redox, Tock, or IntermezzOS operating system<br>
+      3. Software development: antivirus program
+      </p>
+    </p>
+  workshop: workshops
+  workshop_description: >
+    <p>    
+      • For the year 2023:
+      <p class="indented-tab">
+      ◦ Winter: Python web development<br>
+      ◦ Summer: 3D modeling
+      </p>
+      • For the year 2024:
+      <p class="indented-tab">
+      ◦ Winter: Data science<br>
+      ◦ Summer: IoT
+      </p>
+      Workshops are open to all interested individuals, but association members have priority due to limited seating.
+    </p>
+  seminar: seminars
+  seminar_description: >
+    <p>    
+      • For the year 2023: Rust programming language<br>
+      <br>
+      • For the year 2024: Gaming industry<br>
+      <br>
+      Seminars are open to all interested individuals, but association members have priority due to limited seating.
+    </p>

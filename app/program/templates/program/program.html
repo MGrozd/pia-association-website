@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block header_title1 %} {{ base.association_name1 }} {% endblock %}
+{% block header_title2 %} {{ base.association_name2 }} {% endblock %}
+{% block header_title3 %} {{ base.association_name3 }} {% endblock %}
+{% block header_news %} {{ base.news }} {% endblock %}
+{% block header_program %} {{ base.program }} {% endblock %}
+{% block header_about_us %} {{ base.about_us | safe }} {% endblock %}
+{% block header_membership %} {{ base.membership }} {% endblock %}
+
+{% block content %}
+    <!-- Section -->
+    <section>
+        <div class="container px-4 px-lg-5 mt-5">
+            <h5>{{ program.title }}</h5>
+            <br>
+            <p>{{ program.description | safe }}</p>
+            <br>
+            <p style="text-transform: uppercase;"><b>{{ program.lecture }}</b></p>
+            {{ program.lecture_description | safe }}
+            <p style="text-transform: uppercase;"><b>{{ program.workshop }}</b></p>
+            {{ program.workshop_description | safe }}
+            <br>
+            <p style="text-transform: uppercase;"><b>{{ program.seminar }}</b></p>
+            {{ program.seminar_description | safe }}
+        </div>
+    </section>
+{% endblock %}

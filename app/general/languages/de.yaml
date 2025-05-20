@@ -1,0 +1,219 @@
+# base
+base:
+  association_name1: "Verband"
+  association_name2: "\"Programmierung und Algorithmen\""
+  association_name3: "Đakovo"
+  news: "Nachricht"
+  program: "Programm"
+  about_us: "Über&nbsp;uns"
+  membership: "Mitgliedschaft"
+
+# home
+news3_title: "ANKÜNDIGUNG des Vortrags ab dem 15. Juli 2023"
+news3_theme: "Thema: Entwicklung einer Rechnungs- und Angebotsanwendung in Python"
+news3_description: >
+  Während des Vortrags lernen die Teilnehmer, die Programmiersprache <a href="https://www.python.org/">Python</a> für kommerzielle Zwecke in verschiedenen Anwendungsbereichen zu nutzen.
+  <br>
+  <br>
+  Die Vorträge für dieses Jahr finden alle zwei Samstage statt, beginnend ab dem 15. Juli 2023, online von 9:00 bis 12:00 Uhr mit 15-minütigen Pausen nach jeweils 45 Minuten.
+  <br>
+  <br>
+  Das erste Vortragsthema wird die Entwicklung einer Rechnungs- und Angebotsanwendung sein.
+  Vor jedem Vortrag erhalten die Teilnehmer einen Tag im Voraus per E-Mail eine Benachrichtigung mit einer Beschreibung des Vortrags und einem Link zur Online-Sitzung.
+  <br>
+  Sie können sich anmelden, indem Sie eine E-Mail an <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a> senden.
+  <br>
+  <br>
+  Bitte melden Sie sich so früh wie möglich an, da die Plätze begrenzt sind!
+  <br>
+  Wir freuen uns auf Ihre Teilnahme!<img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+news2_title: "Sommerworkshop 2023."
+news2_theme: "Thema: 3D-Modellierung und Drucken"
+news2_description: >
+  Der Workshop fand am 23. und 30. September 2023 am Standort <a href="https://goo.gl/maps/aS7w5JrytcUvL2Zx7">Gymnasium Antun Gustav Matos Đakovo</a> statt.<br>
+  <br>
+  Während des Workshops lernten die Teilnehmer, die Software FreeCAD für 3D-Computermodellierung zu verwenden. 
+  Nach erfolgreichem Abschluss des Workshops erhielt jeder Teilnehmer ein 3D-Modell als Andenken. <br>
+  <br>
+  Wir möchten uns bei den Teilnehmern für ihre Beteiligung an der Erstellung und für alle Vorschläge, die sie gemacht haben, bedanken! 
+  <img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+news1_title: "Winterworkshop 2023"
+news1_theme: "Thema: Python Webentwicklung"
+news1_description: >
+  Der Workshop fand vom 2. bis 5. Januar 2023 in der Gimnazija A. G. Matoša Đakovo statt und hatte das Thema Python Webentwicklung.<br>
+  <br>
+  Im Workshop lernten die Teilnehmer verschiedene Tools zur Programmierung kennen und wie man eine Website erstellt. Konkret lernten sie den Umgang mit Visual Studio Code (IDE) zur Codebearbeitung und dem GIT-Tool zur Versionierung des Codes. Darüber hinaus erlernten sie die Verwendung der Programmiersprache Python und des Micro-Webframeworks für den Backend-Bereich, sowie HTML, CSS und Bootstrap5 für den Frontend-Bereich der Website. Zur Speicherung von Daten wurde SQLite als Datenbank verwendet. Die Teilnehmer waren an der Erstellung einer Website für den Verein "Programiranje i algoritmi" beteiligt, die später als Grundlage für die aktuelle Website diente.<br>
+  <br>
+  Wir möchten uns bei den Teilnehmern für ihre Mitarbeit bei der Entwicklung und für alle vorgeschlagenen Verbesserungen bedanken!
+<img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+modal_button: "MEHR ERFAHREN..."
+modal_close_button: Schließen
+previous_carousel: "Vorherige"
+next_carousel: "Nächste"
+
+# about
+about: >
+  <p>Sitz: Certisa 33, 31400 Đakovo<br>
+      UID: 29479394969<br>
+      Registrierungsnummer: 14005049<br>
+      Bevollmächtigte Vertreter: Matej Grozdanić - Vorsitzender; Dario Došlić - stellvertretender Vorsitzender; Anja Grozdanić - Sekretärin<br>
+      Bankkonto: Hrvatska poštanska banka (HPB) HR4423900011101367149
+  </p>
+  <p>URL <a href="https://programiranjeialgoritmi.hr">https://programiranjeialgoritmi.hr</a></p>
+  <p>E-Mail-Adresse: <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a></p>
+  <p>Der Verein "Programmierung und Algorithmen" wurde mit dem Ziel gegründet, die Ausbildung junger Menschen auf dem Gebiet der Informationstechnologie, 
+    Digitalisierung, Robotik und Technik zu fördern, zu entwickeln und zu verbessern.
+  </p>
+  <br>
+  <h5>Ziele des Vereins Programmierung und Algorithmen</h5>
+  <br>
+  <p>– Verbesserung der Ausbildung der Vereinsmitglieder auf dem Gebiet der Tätigkeit/Verantwortung des Vereins,<br>
+      – effektive Durchführung von Bildungsaktivitäten auf dem Gebiet der Tätigkeit/Verantwortung des Vereins,<br>
+      – Qualifizierung, Weiterbildung und Schulung der Mitglieder,<br>
+      – Förderung der Bedeutung von Informationstechnologien und deren Anwendung für nachhaltige Entwicklung,<br>
+      – Förderung lebenslangen Lernens und Weiterbildung,<br>
+      – Entwicklung von Soft Skills wie mündliche/schriftliche Kommunikation, Teamarbeit/Zusammenarbeit, kritisches Denken/Problem lösen,<br>
+      – Entwicklung positiver menschlicher Werte wie Solidarität, Selbstlosigkeit und Freundschaft,<br>
+      – Moralische, ethische und erzieherische Wirkung auf Jugendliche, Mitglieder insgesamt sowie auf die Nutzer des Vereinsprogramms durch umfassende Aktivitäten.
+  </p>
+  <br>
+  <h5>Arbeitsprogramm des Vereins Programmierung und Algorithmen</h5>
+  <br>
+  <p>
+  Der Plan und das Arbeitsprogramm des Vereins werden gemäß dem auf der Website verfügbaren Programm umgesetzt.
+  Neben Vorträgen, Workshops und Seminaren zur Entwicklung des Vereins werden eine Website und eine Buchhaltungssoftware für die Finanzberichte des Vereins erstellt, 
+  die in Zukunft auf alle Verwaltungsaufgaben (Arbeitsorganisation) erweitert werden soll. Die geplante Fertigstellung ist innerhalb des laufenden Jahres 2023 vorgesehen.
+  </p>
+
+# privacy_policy
+privacy_policy: >
+  <h5>Datenschutzrichtlinie für den Schutz personenbezogener Daten des Vereins "Programmierung und Algorithmen"</h1>
+  <p>
+    Am 25. Mai 2018 tritt in Kroatien die Allgemeine Datenschutzverordnung (EU) 2016/679 über den Schutz natürlicher Personen bei der Verarbeitung personenbezogener 
+    Daten und über den freien Datenverkehr in Kraft, die als DSGVO bekannt ist. Gemäß der DSGVO haben wir unsere Geschäftstätigkeit in Bezug auf die Verarbeitung und 
+    den Schutz personenbezogener Daten in Übereinstimmung mit dieser Datenschutzrichtlinie des Vereins "Programmierung und Algorithmen" (im Folgenden "Richtlinie") 
+    angepasst.<br>
+    <br>
+    Der Verein "Programmierung und Algorithmen", Certisa 33, Đakovo, OIB: 29479394969 (im Folgenden "Verein"), verarbeitet die personenbezogenen Daten, die Sie uns 
+    durch das Ausfüllen des Mitgliedschaftsantrags bei Ihrem Eintritt in den Verein zur Verfügung stellen. Diese Daten sind erforderlich, um Ihre Mitgliedschaft gemäß 
+    den Bestimmungen des Vereinsgesetzes (Narodne Novine, Nr. 74/14), der DSGVO und dieser Richtlinie zu genehmigen. Der Verein wird Ihre personenbezogenen Daten, die 
+    Sie uns zur Verfügung stellen, sorgfältig und sicher speichern und sie ohne Ihre vorherige Zustimmung nicht an andere Personen, Drittländer oder internationale 
+    Organisationen weitergeben, außer auf Anforderung zuständiger Behörden. Der Verein verarbeitet Ihre personenbezogenen Daten gemäß den in der DSGVO festgelegten 
+    Rechten.<br>
+    <br>
+    Diese Richtlinie ist das grundlegende Dokument, das den Rahmen für den Schutz personenbezogener Daten gemäß der DSGVO festlegt. Diese Richtlinie gilt für die 
+    Verarbeitung personenbezogener Daten, die im Einklang mit den Zielen, Aktivitäten und der Satzung des Vereins "Programmierung und Algorithmen", den Bestimmungen 
+    der DSGVO und dieser Richtlinie durchgeführt wird, und gilt für alle Verarbeitungen personenbezogener Daten innerhalb des Vereins. Das Ziel der Richtlinie ist es, 
+    angemessene Prozesse für den Schutz und die Verwaltung personenbezogener Daten von betroffenen Personen einzurichten.<br>
+    <br>
+    Personenbezogene Daten beziehen sich auf alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (betroffene Person) beziehen.<br>
+    <br>
+    Eine betroffene Person ist eine natürliche Person, die direkt oder indirekt anhand eines Identifikators wie eines Namens, einer persönlichen Identifikationsnummer, 
+    Standortdaten, einer Online-Kennung oder anhand eines oder mehrerer spezifischer Merkmale, die Ausdruck der physischen, physiologischen, genetischen, psychischen, 
+    wirtschaftlichen, kulturellen oder sozialen Identität dieser Person sind, identifiziert werden kann.<br>
+    <br>
+    Eine Einwilligung ist jede freiwillige, spezifische, informierte und unmissverständliche Äußerung des Willens der betroffenen Person, mit der sie durch eine Erklärung 
+    oder eine eindeutig bestätigende Handlung der Verarbeitung sie betreffender personenbezogener Daten zustimmt.<br>
+    <br>
+    Ein Auftragsverarbeiter ist eine natürliche oder juristische Person, Behörde, Agentur oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen 
+    verarbeitet.<br>
+  </p>
+  <br>
+  <h5>Grundsätze der Verarbeitung personenbezogener Daten</h5>
+  <p>
+    Da wir personenbezogene Daten direkt von Ihnen, unseren Mitgliedern, erheben, möchten wir Ihnen im Folgenden alle Informationen darüber geben, warum und wie wir Ihre 
+    personenbezogenen Daten verarbeiten, die Sie uns bei Ihrem Eintritt in den Verein "Programmierung und Algorithmen" zur Verfügung stellen.<br>
+    <br>
+    Der Verein verarbeitet Ihre personenbezogenen Daten gemäß den folgenden Grundsätzen der Verarbeitung:
+    <br>
+    <b>- Rechtmäßigkeit, Fairness und Transparenz der Verarbeitung:</b> Dies bedeutet, dass die Verarbeitung auf einer bestimmten rechtlichen Grundlage beruhen muss und 
+    dass die Prinzipien der fairen und transparenten Verarbeitung eingehalten werden müssen. Die betroffene Person sollte über den Verarbeitungsvorgang und seine Zwecke 
+    informiert sein. Die Begrenzung des Zwecks bedeutet, dass die Daten für spezifische, eindeutige und legitime Zwecke erhoben werden sollten und nicht in einer Weise 
+    weiterverarbeitet werden dürfen, die nicht mit diesen Zwecken vereinbar ist;<br>
+    <b>- Datensparsamkeit:</b> Dies bedeutet, dass die Daten angemessen, relevant und auf das für die Zwecke der Verarbeitung notwendige Maß beschränkt sein sollten;<br>
+    <b>- Richtigkeit:</b> Dies bedeutet, dass die Daten korrekt und aktuell sein müssen und angemessene Maßnahmen ergriffen werden müssen, um sicherzustellen, dass 
+    unrichtige oder unvollständige personenbezogene Daten unter Berücksichtigung der Zwecke, für die sie verarbeitet werden, unverzüglich gelöscht oder berichtigt 
+    werden;<br>
+    <b>- Speicherbegrenzung:</b> Dies bedeutet, dass die Daten in einer Form gespeichert werden müssen, die die Identifizierung der betroffenen Person nur für den Zeitraum 
+    ermöglicht, der für die Zwecke, für die die personenbezogenen Daten verarbeitet werden, erforderlich ist;<br>
+    <b>- Integrität und Vertraulichkeit:</b> Dies bedeutet, dass die Daten in einer Weise verarbeitet werden müssen, die angemessene Sicherheit gewährleistet, 
+    einschließlich Schutz vor unbefugter oder unrechtmäßiger Verarbeitung sowie vor unbeabsichtigtem Verlust, Zerstörung oder Schädigung;<br>
+    <b>- Rechenschaftspflicht:</b> Dies bedeutet, dass der Verein dafür verantwortlich ist, die Grundsätze einzuhalten, und dass die Beweislast beim Ver
+
+  antwortlichen liegt.<br><br>
+      Der Zweck der Verarbeitung Ihrer personenbezogenen Daten sowie die rechtliche Grundlage für die Verarbeitung personenbezogener Daten ist die Führung einer 
+      Mitgliederliste im Verein. Die rechtliche Grundlage für die Verarbeitung Ihrer Daten findet sich im Vereinsgesetz (Narodne Novine, Nr. 74/14), wonach der Verein 
+      verpflichtet ist, eine Liste seiner Mitglieder mit obligatorischen personenbezogenen Daten wie Name, Nachname, persönliche Identifikationsnummer, Geburtsdatum und 
+      Eintrittsdatum zu führen. Die vom Verein erhobenen personenbezogenen Daten von Ihnen sind:
+      <br>
+      - Name und Nachname,<br>
+      - E-Mail-Adresse,<br>
+      - Geburtsdatum,<br>
+      - Persönliche Identifikationsnummer,<br>
+      - Wohnadresse (Straße, Hausnummer, Stadt, Postleitzahl, Bezirk),<br>
+      - Telefonnummern,<br>
+      - Geschlecht,<br>
+      - Eintrittsdatum in den Verein,<br>
+      - Status der Mitgliedsbeitragszahlung,<br>
+      - Mitgliedschaftskategorie,<br>
+      - Datum des Ausscheidens aus dem Verein.<br>
+      <br>
+      Der Verein wird Ihre personenbezogenen Daten ausschließlich für folgende Zwecke verarbeiten:<br>
+      - Überprüfung der Mitgliedschaft im Verein,<br>
+      - Überprüfung der Mitgliedsbeitragsverpflichtung,<br>
+      - Überprüfung der Richtigkeit und Aktualität Ihrer personenbezogenen Daten,<br>
+      - Telefonische oder E-Mail-Kommunikation mit Mitgliedern.<br>
+      <br>
+      Darüber hinaus werden wir Ihre personenbezogenen Daten für den Versand von E-Mail-Benachrichtigungen an Ihre E-Mail-Adresse verarbeiten, die der Verein für die 
+      Verbesserung und den Schutz Ihrer Verbraucherrechte als Nutzer von Finanz- und Kreditdienstleistungen durchführt. Diese Benachrichtigungen können Neuigkeiten, 
+      Veranstaltungen, Schulungen, Projekte, Aktivitäten, Beratungen, Diskussionsrunden, Umfragen und Mitgliedsbeitragspflichten betreffen.
+      <br>
+      <br>
+      Aufbewahrungsfrist für Ihre Daten<br>
+      Ihre personenbezogenen Daten werden so lange aufbewahrt, wie es für die Erfüllung der beschriebenen Zwecke erforderlich ist, und solange Sie mit uns in Kontakt 
+      bleiben und unsere Benachrichtigungen gemäß der von Ihnen erteilten Einwilligung zur Mitgliedschaft im Verein erhalten möchten, oder bis Sie Ihre Einwilligung 
+      für bestimmte Zwecke widerrufen. Wenn und wenn wir Ihre Anfrage zur Löschung von Daten, den Widerruf Ihrer Einwilligung, eine Anfrage zur Einschränkung der 
+      Verarbeitung Ihrer personenbezogenen Daten oder eine ähnliche Beschwerde erhalten, werden wir umgehend entsprechend Ihrem Antrag handeln, und die Speicherung 
+      personenbezogener Daten erfolgt nur für einen bestimmten Zeitraum vor ihrer endgültigen Löschung. Sie können diese Rechte durch Senden eines schriftlichen Antrags 
+      an pia.djakovo@gmail.com geltend machen.<br>
+      <br>
+      Schutz Ihrer personenbezogenen Daten<br>
+      Der Schutz und die Sicherheit Ihrer personenbezogenen Daten haben für uns höchste Priorität. Aus diesem Grund verarbeiten wir Ihre personenbezogenen Daten gemäß 
+      der DSGVO unter Anwendung angemessener technischer und organisatorischer Maßnahmen, um unbefugten Zugriff, Missbrauch, Offenlegung, Verlust oder Zerstörung 
+      personenbezogener Daten zu verhindern.<br>
+      <br>
+      Wir sind uns bewusst, dass Ihre personenbezogenen Daten Ihr Eigentum sind und Sie jederzeit und in jeder Situation die folgenden Rechte geltend machen können:<br>
+      <br>
+      Das Recht auf Löschung ("Recht auf Vergessenwerden") ermöglicht es Ihnen, die Löschung Ihrer personenbezogenen Daten aus dem Register des Vereins zu beantragen:<br>
+      - Wenn die Daten für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind<br>
+      - Wenn Sie Ihre Einwilligung widerrufen und es keine andere rechtliche Grundlage für die Datenverarbeitung gibt<br>
+      - Wenn personenbezogene Daten unrechtmäßig verarbeitet werden<br>
+      - Wenn sie aufgrund der Einhaltung rechtlicher Verpflichtungen gemäß geltenden Rechtsvorschriften gelöscht werden müssen<br>
+      <br>
+      Das Recht auf Zugang gibt Ihnen das Recht, Informationen vom Verein über den Prozess der Erhebung und Verarbeitung Ihrer personenbezogenen Daten zu erhalten. Sie 
+      haben das Recht zu erfahren, ob personenbezogene Daten, die Sie betreffen, verarbeitet werden, und wenn dies der Fall ist, Zugang zu Ihren personenbezogenen Daten 
+      zu erhalten, einschließlich des Rechts, eine Kopie der verarbeiteten personenbezogenen Daten zu erhalten.<br>
+      Das Recht auf Berichtigung oder Ergänzung unrichtiger personenbezogener Daten gibt Ihnen das Recht, unverzüglich die Berichtigung unrichtiger personenbezogener 
+      Daten, die Sie betreffen, vom Verein zu verlangen.<br>
+      Das Recht auf Einschränkung der Verarbeitung gilt in folgenden Fällen:<br>
+      - Wenn Sie die Richtigkeit Ihrer personenbezogenen Daten bestreiten, für einen Zeitraum, der uns ermöglicht, die Richtigkeit der personenbezogenen Daten zu 
+      überprüfen<br>
+      - Wenn die Verarbeitung unrechtmäßig ist und Sie der Löschung Ihrer personenbezogenen Daten widersprechen und stattdessen die Einschränkung ihrer Verwendung 
+      verlangen<br>
+      - Wenn wir Ihre personenbezogenen Daten für die Zwecke der Verarbeitung nicht mehr benötigen, Sie diese jedoch für die Geltendmachung, Ausübung oder Verteidigung 
+      von Rechtsansprüchen benötigen<br>
+      <br>
+      Das Recht auf Widerspruch gibt Ihnen das Recht, jederzeit Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen, die auf öffentlichem 
+      Interesse oder berechtigten Interessen des Verantwortlichen beruht. Sie können jederzeit eines der oben genannten
+
+  Rechte per E-Mail an pia.djakovo@gmail.com geltend machen. Der Verein wird auf alle Ihre Anfragen in Bezug auf die ergriffenen Maßnahmen im Zusammenhang mit diesen 
+  Rechten schriftlich innerhalb von 30 Tagen nach Erhalt der Anfrage antworten, wobei die Frist um weitere 30 Tage verlängert werden kann, wenn dies erforderlich ist. 
+  Wenn Sie Ihre Einwilligung zum Erhalt von Benachrichtigungen an Ihre E-Mail-Adresse widerrufen möchten, können Sie eine Anfrage an die E-Mail-Adresse 
+  pia.djakovo@gmail.com senden.<br>
+      <br>
+      Beschwerden über die Verarbeitung personenbezogener Daten können an die Aufsichtsbehörde unter folgender Adresse gerichtet werden:<br>
+      Datenschutzagentur, Martićeva 14, Zagreb.<br>
+      <br>
+      Verein "Programmierung und Algorithmen"<br>
+      In Đakovo, 1. Juli 2023.
+  </p>

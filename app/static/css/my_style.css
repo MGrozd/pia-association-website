@@ -1,0 +1,41 @@
+.carousel-caption h5 {
+    color: green;
+    display: inline;
+    padding: 5px;
+    background-color: white;
+}
+
+.carousel-caption p {
+    color: orange;
+    display: inline;
+    padding: 5px;
+    background-color: white;
+}
+
+.modal-title {
+    color: green;
+    display: inline;
+    padding: 5px;
+    background-color: white;
+}
+
+.modal-subtitle {
+    color: orange;
+    display: inline;
+    padding: 5px;
+    background-color: white;
+}
+
+.indented-tab {
+    white-space: pre-wrap;
+}
+
+.indented-tab::before{
+    content: "\00a0\00a0\00a0\00a0"; /* Use multiple non-breaking spaces for the desired indentation */
+}
+
+.image-flag {
+    height: 32px;
+    border: 2px solid #000000; /* Replace #000000 with your desired border color */
+    padding: 2px; /* Optional: Add padding to create some space between the image and the border */
+}

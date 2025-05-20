@@ -1,0 +1,45 @@
+# base
+base:
+  association_name1: "Association"
+  association_name2: "\"Programming and Algorithms\""
+  association_name3: "Đakovo"
+  news: "News"
+  program: "Program"
+  about_us: "About&nbsp;us"
+  membership: "Membership"
+
+membership:
+  title: Procedure for joining the Programming and Algorithms Association
+  process_steps: > 
+    <p>When joining, there are several steps that need to be taken:
+    Read and accept <a href="/privacy_policy">Privacy Policy</a> and <a href="/docs/statute">Statute</a> of the Programming and Algorithms Association, 
+    which are the foundation and purpose of the association's activities and operations in accordance with the Associations Act (Official Gazette, No. 74/14).</p>
+    <p>After that, send an email titled <i>"Membership Application to the Association"</i> to the email address 
+    <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a> 
+    with your personal information:<br>
+    - <i>Name</i><br>
+    - <i>Surname</i><br>
+    - <i>Personal Identification Number (PIN)</i><br>
+    - <i>Date of Birth</i><br>
+    - <i>Joining Date</i><br>
+    - <i>Email Address</i><br>
+    And confirm your consent by copying the following into the email message:<br>
+    • <i>"I agree that the Programming and Algorithms Association collects and processes my personal data in accordance with the Privacy Policy, which I have received 
+    and read, thereby allowing my personal data to be entered into the register of the Programming and Algorithms Association."</i><br>
+    • <i>"I accept the goals and Statute of the Programming and Algorithms Association."</i><br>
+    • <i>"I wish to receive email notifications from the Programming and Algorithms Association."</i> (OPTIONAL)</p>
+    <p>You have the autonomy to decide whether to provide personal information to the Association when applying for membership, but we must emphasize that by refusing 
+    to provide the mandatory data prescribed by Article 12 of the Associations Act, you cannot become a member of the Association.</p>
+  fee: Membership Fee
+  why_pay_fee: >
+    The membership fee needs to be paid for several reasons:<br>
+    - By paying the membership fee, prospective members of the Association demonstrate their responsibility and appreciation for the valuable and irreplaceable time and effort
+    invested by the instructors for their better future.<br>
+    - The Association has a limited number of instructors who can teach at any given time. For this reason, the number of members is limited to ensure higher quality 
+    lectures.<br>
+    - By paying the membership fee, prospective members invest in their own future, demonstrating that they are also willing to contribute to the development of the 
+    Association, both through their commitment and effort, as well as financially.
+  fee_amount: >
+    Monthly membership fee for the junior member category (minors): <b>6.00 EUR</b> / 45.21 HRK<br>
+    Monthly membership fee for the senior member category (adults) and multiple years: <b>12.00 EUR</b> / 90.41 HRK<br>
+    Monthly membership fees are paid on a monthly basis, <b>by the 10th of each month</b>, for the current month.

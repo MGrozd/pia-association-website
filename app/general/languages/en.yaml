@@ -1,0 +1,173 @@
+# base
+base:
+  association_name1: "Association"
+  association_name2: "\"Programming and Algorithms\""
+  association_name3: "Đakovo"
+  news: "News"
+  program: "Program"
+  about_us: "About&nbsp;us"
+  membership: "Membership"
+
+# home
+news3_title: "Announcement of Lecture Starting on July 15, 2023"
+news3_theme: "Topic: Developing an Invoice and Quotation Application in Python"
+news3_description: >
+  During the lecture, participants will learn how to use the programming language <a href="https://www.python.org/">Python</a> for commercial purposes in various fields of application.
+  <br>
+  <br>
+  The lectures for this year will be held every other Saturday, starting from July 15, 2023, online from 9:00 AM to 12:00 PM with 15-minute breaks after every 45 minutes.
+  <br>
+  <br>
+  The first lecture topic will be the development of an invoice and quotation application.
+  Prior to each lecture, participants will receive an email notification one day in advance, containing a description of the lecture and a link to the online session.
+  <br>
+  You can register by sending an email to <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a>.
+  <br>
+  <br>
+  Please register as soon as possible, as seating is limited!
+  <br>
+  We look forward to your participation!<img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+news2_title: "Summer Workshop 2023."
+news2_theme: "Theme: 3D Modeling and Printing"
+news2_description: >
+  The workshop took place on September 23rd and 30th, 2023, at the location <a href="https://goo.gl/maps/aS7w5JrytcUvL2Zx7">Gymnasium Antun Gustav Matos Đakovo</a>.<br>
+  <br>
+  During the workshop, participants learned to use the FreeCAD software for 3D computer modeling. After successfully completing the workshop, 
+  each participant received a 3D model as a keepsake.<br>
+  <br>
+  We would like to thank the participants for their involvement in the creation and for all the suggestions they provided! 
+  <img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+news1_title: "Winter Workshop 2023"
+news1_theme: "Theme: Python Web Development"
+news1_description: >
+  The workshop took place from January 2nd to January 5th, 2023, at Gimnazija A. G. Matoša Đakovo, with the theme of Python Web development.<br>
+  <br>
+  During the workshop, participants learned to use various tools for program development and how to create a website. Specifically, they learned to use Visual Studio Code (IDE) for code editing and the GIT tool for versioning the code. Additionally, they learned to use the Python programming language and its micro web framework for the backend, and HTML, CSS, and Bootstrap5 for the frontend of the website. They also utilized SQLite as a database for storing data. Participants were involved in creating a website for the association "Programiranje i algoritmi," which later became the foundation for the current website.<br>
+  <br>
+  We would like to thank the participants for their involvement in the development and for all the suggestions they provided!
+  <img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+modal_button: "LEARN MORE..."
+modal_close_button: Close
+previous_carousel: "Previous"
+next_carousel: "Next"
+
+# about
+about: >
+  <p>Headquarters: Certisa 33, 31400 Đakovo<br>
+      VAT ID: 29479394969<br>
+      Registration number: 14005049<br>
+      Authorized representatives: Matej Grozdanić - President; Dario Došlić - Vice President; Anja Grozdanić - Secretary<br>
+      Bank account: Hrvatska poštanska banka (HPB) HR4423900011101367149
+  </p>
+  <p>URL <a href="https://programiranjeialgoritmi.hr">https://programiranjeialgoritmi.hr</a></p>
+  <p>Email address: <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a></p>
+  <p>The Association Programming and Algorithms was founded with the aim of promoting, developing, and enhancing the education of young people in the field of 
+  information technology, digitalization, robotics, and technology.
+  </p>
+  <br>
+  <h5>Objectives of the Association Programming and Algorithms</h5>
+  <br>
+  <p>– Improvement of the education of the Association members in the field of the Association's activities/responsibilities,<br>
+      – Effective implementation of educational activities in the field of the Association's activities/responsibilities,<br>
+      – Training, upgrading, and practice of the members,<br>
+      – Promotion of the importance of information technology and its applications for sustainable development,<br>
+      – Development of lifelong learning and improvement,<br>
+      – Development of soft skills such as oral/written communication, teamwork/collaboration, critical thinking/problem solving,<br>
+      – Development of positive human values such as solidarity, selflessness, and friendship,<br>
+      – Moral, ethical, and educational impact on young people, members as well as users of the Association's programs through overall activities.
+  </p>
+  <br>
+  <h5>Work Program of the Association Programming and Algorithms</h5>
+  <br>
+  <p>
+  The plan and work program of the Association will be implemented according to the program that can be found on the website.
+  In addition to lectures, workshops, and seminars for the development of the Association, a website and accounting software for the financial reports of the 
+  Association will be created, which will be expanded to cover all administrative tasks (work organization) in the future. The estimated completion time for these 
+  is within the current year 2023.
+  </p>
+
+# privacy_policy
+privacy_policy: >
+  <h5>PRIVACY POLICY FOR PERSONAL DATA PROTECTION OF THE PROGRAMMING AND ALGORITHMS ASSOCIATION</h1>
+  <p>
+      The General Data Protection Regulation (EU) 2016/679 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, known as the GDPR, will come into effect in Croatia on May 25, 2018. In accordance with the GDPR, we have aligned our business operations related to the processing and protection of personal data, as outlined in this Privacy Policy of the Programming and Algorithms Association (hereinafter referred to as the "Policy").<br>
+      <br>
+      The Programming and Algorithms Association, Certisa 33, Đakovo, OIB: 29479394969 (hereinafter referred to as the "Association"), processes the personal data that you provide to us by completing the Membership Application Form when joining the Association. These data are necessary for approving your membership application in accordance with the provisions of the Associations Act (Narodne Novine, no. 74/14), the GDPR, and this Policy. The Association will carefully and securely store all the personal data you provide and will not disclose them to any other individuals, third countries, or international organizations without your prior consent, except when required by competent authorities upon their request. The Association processes your personal data in accordance with the rights defined within the GDPR.<br>
+      <br>
+      This Policy is the fundamental document that establishes the framework for protecting personal data in accordance with the GDPR. This Policy applies to the processing of personal data carried out in line with the goals, activities, and Statute of the Programming and Algorithms Association, the provisions of the GDPR, and this Policy. The purpose of the Policy is to establish appropriate processes for the protection and management of data subjects' personal data.<br>
+      <br>
+      Personal data refers to any information relating to an identified or identifiable individual (data subject).<br>
+      <br>
+      A data subject is a natural person who can be directly or indirectly identified, in particular by reference to an identifier such as a name, personal identification number, location data, online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that individual.<br>
+      <br>
+      Consent is any freely given, specific, informed, and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.<br>
+      <br>
+      A data processor is a natural or legal person, public authority, agency, or other body that processes personal data on behalf of the data controller.<br>
+  </p>
+  <br>
+  <h5>Principles of Personal Data Processing</h5>
+  <p>
+      Since we collect personal data directly from you, our members, we would like to provide you with all the necessary information about why and how we process your personal data that you provide to us when joining the Programming and Algorithms Association.<br>
+      <br>
+      The Association processes your personal data in accordance with the following principles of processing:
+      <br>
+      <b>- Lawfulness, fairness, and transparency of processing:</b> This means that processing must have a legal basis and must be fair and transparent. The individual should be informed about the processing procedure and its purposes. The limitation of purpose means that the data should be collected for specific, explicit, and legitimate purposes and should not be further processed in a manner incompatible with those purposes.<br>
+      <b>- Data minimization:</b> This means that the data should be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed.<br>
+      <b>- Accuracy:</b> This means that the data must be accurate and up to date, and reasonable measures should be taken to ensure that any inaccurate or incomplete personal data, considering the purposes for which they are processed, are erased or rectified without delay.<br>
+      <b>- Storage limitation:</b> This means that the data should be kept in a form that allows identification of the data subject for no longer than is necessary for the purposes for which the personal data are processed.<br>
+      <b>- Integrity and confidentiality:</b> This means that the data should be processed in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing, as well as against accidental loss, destruction, or damage.<br>
+      <b>- Accountability:</b> This means that the Association is responsible for complying with the principles, and the burden of proof lies with the data controller.<br><br>
+      The purpose of processing your personal data and the legal basis for processing personal data are as follows:<br>
+      The purpose of processing your personal data is to maintain membership records in the Association. The legal basis for processing your data is found in the Associations Act (Narodne Novine, no. 74/14), which requires the Association to keep a register of its members with mandatory personal data such as name, surname, personal identification number, date of birth, date of accession, and may include other data that fall under personal data. The personal data collected by the Association from you include:<br>
+      - Name and surname<br>
+      - Email address<br>
+      - Date of birth<br>
+      - Personal identification number (OIB)<br>
+      - Residential address (street, house number, city, postal code, county)<br>
+      - Phone numbers<br>
+      - Gender<br>
+      - Date of joining the association<br>
+      - Membership fee payment status<br>
+      - Membership category<br>
+      - Date of termination of membership in the association<br>
+      <br>
+      In accordance with the purpose of processing, the Association will process your personal data exclusively for the following purposes:<br>
+      - Membership verification<br>
+      - Verification of membership fee obligations<br>
+      - Verification of accuracy and correctness, as well as updating personal data<br>
+      - Telephone or email communication with members<br>
+      <br>
+      In addition, we will process your personal data for the purpose of sending email notifications to your email addresses, which the Association may send regarding news, events, education, projects, activities, consultations, seminars, surveys, and membership fee obligations, aiming to improve and protect your consumer rights as a user of financial and credit services.
+      <br>
+      <br>
+      Retention Period of Your Data<br>
+      We will retain your personal data for as long as necessary to achieve the stated purposes, as long as you wish to stay in contact with us and receive our notifications in accordance with the consent you provided upon joining the Association, or until you withdraw your consent given for specific purposes. If and when we receive your request for data erasure, withdrawal of consent, request for restriction of processing of your personal data, or any similar objection, we will promptly respond to your request, and within a specific timeframe, the storage of personal data will be the only form of processing before their permanent deletion. You can exercise your rights by sending a written request to pia.djakovo@gmail.com.<br>
+      <br>
+      Protection of Your Personal Data<br>
+      The protection and security of your personal data are our top priority. Therefore, we process your personal data in accordance with the GDPR, implementing appropriate technical and organizational measures to prevent unauthorized access
+
+  , misuse, disclosure, loss, or destruction of personal data.<br>
+      <br>
+      We are aware that your personal data belongs to you, and you can always request and exercise the following rights:<br>
+      <br>
+      The right to erasure ("right to be forgotten") allows you to request the erasure of your personal data from the Association's register:<br>
+      - If the data is no longer necessary for the purposes for which it was collected<br>
+      - If you withdraw your consent, and there is no other legal basis for the data processing<br>
+      - If personal data is unlawfully processed<br>
+      - If it must be erased due to compliance with legal obligations according to valid legal regulations<br>
+      <br>
+      The right to access data gives you the right to obtain information from the Association regarding the process of collecting and processing your personal data. You have the right to know whether your personal data is being processed and, if so, access your personal data, including the right to obtain a copy of the personal data being processed.<br>
+      The right to rectification, or the right to supplement inaccurate personal data, allows you to request prompt correction of inaccurate personal data related to you from the Association.<br>
+      The right to restriction of processing applies in the following cases:<br>
+      - If you contest the accuracy of your personal data, for a period enabling us to verify the accuracy of the personal data<br>
+      - If the processing is unlawful, and you oppose the erasure of your personal data and request the restriction of their use instead<br>
+      - If we no longer need your personal data for processing purposes, but you require them for the establishment, exercise, or defense of legal claims<br>
+      <br>
+      The right to object gives you the right to object at any time to the processing of your personal data, which is based on public interest or legitimate interests pursued by the data controller. You can exercise any of the above-mentioned rights at any time by sending an email to pia.djakovo@gmail.com. The Association will provide a written response to all your requests regarding the actions taken concerning these rights within 30 days from the receipt of the request, with a maximum extension of 30 days if necessary. If you wish to withdraw your consent for receiving notifications to your email address at any time, you can submit a request to the email address pia.djakovo@gmail.com.<br>
+      <br>
+      Complaints regarding the processing of personal data should be addressed to the supervisory authority at the following address:<br>
+      Croatian Personal Data Protection Agency, Martićeva 14, Zagreb.<br>
+      <br>
+      Programming and Algorithms Association<br>
+      Đakovo, July 1, 2023.
+  </p>

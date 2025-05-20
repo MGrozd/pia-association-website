@@ -1,0 +1,52 @@
+# base
+base: 
+  association_name1: "Udruga"
+  association_name2: "\"Programiranje i algoritmi\""
+  association_name3: "Đakovo"
+  news: "Novosti"
+  program: "Program"
+  about_us: "O&nbsp;nama"
+  membership: "Članstvo"
+
+# base
+membership: 
+  title: Postupak učlanjenja u udrugu Programiranje i algoritmi
+  process_steps: >
+    <p>Prilikom učlanjivanja postoji nekoliko koraka te je potrebno napraviti sljedeće:<br>
+    pročitati i prihvatiti 
+    <a href="/privacy_policy">Politiku zaštite privatnosti osobnih podataka</a> i <a href="/docs/statute">Statut udruge Programiranje i algoritmi</a> 
+    koji su temelj i svrha djelovanja te poslovanja Udruge Programiranje i algoritmi sukladno Zakonu o udrugama (Narodne Novine, br. 74/14)
+    </p>
+    <p>
+        Nakon toga, šaljete e-mail s naslovom <i>Prijavnica za učlanjenje u Udrugu</i> na elektroničku adresu <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a> s Vašim osobnim podacima:<br>
+        - <i>ime,</i><br>
+        - <i>prezime,</i><br> 
+        - <i>osobni identifikacijski broj (OIB),</i><br> 
+        - <i>datum rođenja,</i><br> 
+        - <i>datum pristupanja,</i><br> 
+        - <i>e-mail adresa</i><br>
+        i potvrdom suglasnosti tako što ćete kopirati u e-mail poruku sljedeće:<br>
+        • <i>Suglasan sam da Udruga Programiranje i algoritmi prikuplja i obrađuje moje osobne podatke sukladno Politici zaštite privatnosti osobnih podataka 
+        Udruge koju sam primio i pročitao čime dozvoljavam da se moji osobni podaci unesu u registar udruge Programiranje i algoritmi</i><br>
+        • <i>Prihvaćam ciljeve i Statut udruge Programiranje i algoritmi</i><br>
+        • <i>Želim primati e-obavijesti udruge Programiranje i algoritmi</i> (NIJE OBAVEZNO)<br>
+    </p>   
+    <p>
+        Samostalno odlučujete hoćete li dati osobne podatke Udruzi prilikom pristupa 
+        članstvu, ali moramo naglasiti kako se odbijanjem davanja obaveznih podataka propisanih 
+        <a href="https://www.zakon.hr/z/64/Zakon-o-udrugama">čl. 12. Zakona o Udrugama</a> ne možete postati članom Udruge. 
+    </p>
+  fee: Članarina
+  why_pay_fee: >
+    Članarinu je potrebno plaćati iz više razloga:<br>
+      - plaćanjem članarine budući članovi Udruge pokazuju svoju odgovornost te cijene dragocijeno i nepovratno vrijeme i trud koji predavači ulažu 
+      u njih za njihovu bolju budućnost.<br>
+      - Udruga ima određen broj predavača koji u određenom trenutku mogu predavati. Iz tog razloga ograničen je i broj članova,
+      odnosno ograničen je kako bi predavanja bila što kvalitetnija.<br>
+      - plaćanjem članarine budući članovi ulažu u vlastitu budućnost pokazujući da su također spremni doprinijeti razvoju Udruge,
+      kako svojim zalaganjem i trudom, tako i financijski.<br>
+  fee_amount: >
+    Iznos mjesečne članarine za kategoriju članstva junior član (maloljetne osobe): <b>6,00 EUR</b> / 45,21 HRK<br>
+    Iznos mjesečne članarine za kategoriju članstva senior član (punoljetne osobe) i više godina: <b>12,00 EUR</b> / 90,41 HRK<br>
+    Mjesečne članarine se plaćaju mjesečno  <b>do 10. u mjesecu</b> za tekući mjesec.
+  

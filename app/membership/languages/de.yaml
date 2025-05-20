@@ -1,0 +1,44 @@
+# base
+base:
+  association_name1: "Verband"
+  association_name2: "\"Programmierung und Algorithmen\""
+  association_name3: "Đakovo"
+  news: "Nachricht"
+  program: "Programm"
+  about_us: "Über&nbsp;uns"
+  membership: "Mitgliedschaft"
+
+membership:
+  title: Verfahren zur Mitgliedschaft in der Vereinigung "Programmierung und Algorithmen"
+  process_steps: >
+    <p>Bei der Mitgliedschaft gibt es mehrere Schritte, die Sie durchführen müssen:<br>
+    Lesen und akzeptieren Sie die 
+    <a href="/privacy_policy">Datenschutzrichtlinie</a> und die <a href="/docs/statute">Statuten</a> der Vereinigung "Programmierung und Algorithmen", 
+    die den Grund und Zweck der Aktivitäten und des Betriebs der Vereinigung "Programmierung und Algorithmen" gemäß dem Vereinsgesetz (Amtsblatt, Nr. 74/14) bilden.
+    </p>
+    <p>
+        Anschließend senden Sie eine E-Mail mit dem Betreff <i>"Mitgliedschaftsantrag für den Verein"</i> an die E-Mail-Adresse <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a> mit Ihren persönlichen Daten:<br>
+        - <i>Name</i><br>
+        - <i>Nachname</i><br> 
+        - <i>Persönliche Identifikationsnummer (PI)</i><br> 
+        - <i>Geburtsdatum</i><br> 
+        - <i>Eintrittsdatum</i><br> 
+        - <i>E-Mail-Adresse</i><br>
+        und bestätigen Sie Ihre Zustimmung, indem Sie Folgendes in die E-Mail-Nachricht kopieren:<br>
+        • <i>Ich stimme zu, dass die Vereinigung "Programmierung und Algorithmen" meine persönlichen Daten gemäß der Datenschutzrichtlinie sammelt und verarbeitet, die ich erhalten und gelesen habe. Dadurch erlaube ich, dass meine persönlichen Daten in das Register der Vereinigung "Programmierung und Algorithmen" eingetragen werden.</i><br>
+        • <i>Ich akzeptiere die Ziele und Statuten der Vereinigung "Programmierung und Algorithmen".</i><br>
+        • <i>Ich möchte E-Mail-Benachrichtigungen von der Vereinigung "Programmierung und Algorithmen" erhalten.</i> (OPTIONAL)<br>
+    </p>   
+    <p>
+        Sie entscheiden selbst, ob Sie dem Verein bei der Mitgliedschaft persönliche Daten zur Verfügung stellen möchten. Wir möchten jedoch darauf hinweisen, dass Sie durch die Verweigerung der Bereitstellung der vorgeschriebenen Pflichtdaten gemäß Artikel 12 des Vereinsgesetzes kein Mitglied des Vereins werden können.
+    </p>
+  fee: Mitgliedsbeitrag
+  why_pay_fee: >
+    Es gibt mehrere Gründe, warum der Mitgliedsbeitrag gezahlt werden muss:<br>
+      - Durch die Zahlung des Mitgliedsbeitrags zeigen zukünftige Mitglieder des Vereins ihre Verantwortung und Wertschätzung für die kostbare und unwiederbringliche Zeit und Mühe, die die Dozenten in sie investieren, um ihre Zukunft zu verbessern.<br>
+      - Der Verein hat eine bestimmte Anzahl von Dozenten, die zu einem bestimmten Zeitpunkt unterrichten können. Aus diesem Grund ist die Anzahl der Mitglieder begrenzt, um den Unterricht qualitativ hochwertig zu gestalten.<br>
+      - Durch die Zahlung des Mitgliedsbeitrags investieren zukünftige Mitglieder in ihre eigene Zukunft und zeigen, dass sie auch bereit sind, zur Entwicklung des Vereins beizutragen, sowohl durch ihr Engagement und ihre Anstrengungen als auch finanziell.<br>
+  fee_amount: >
+    Monatlicher Mitgliedsbeitrag für die Kategorie Junior-Mitglied (Minderjährige): <b>6,00 EUR</b> / 45,21 HRK<br>
+    Monatlicher Mitgliedsbeitrag für die Kategorie Senior-Mitglied (Volljährige) und mehrere Jahre: <b>12,00 EUR</b> / 90,41 HRK<br>
+    Monatliche Mitgliedsbeiträge werden monatlich bis zum <b>10. des Monats</b> für den laufenden Monat gezahlt.

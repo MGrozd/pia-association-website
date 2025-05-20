@@ -1,0 +1,74 @@
+base:
+  association_name1: "Verband"
+  association_name2: "\"Programmierung und Algorithmen\""
+  association_name3: "Đakovo"
+  news: "Nachricht"
+  program: "Programm"
+  about_us: "Über&nbsp;uns"
+  membership: "Mitgliedschaft"
+
+program:
+  title: Programm für 2023 und 2024
+  description: >
+    Der Verein "Programmieren und Algorithmen" wird während der Jahre 2023 und 2024 für alle Mitglieder Vorträge über die Programmiersprache Python, Modellierung in FreeCAD sowie die Einführung der Programmiersprachen C++ und Rust durchführen.
+    Darüber hinaus werden zahlreiche Workshops angeboten, um interessierte Gruppen in den genannten Bereichen zu schulen. <br>
+  lecture: Vorträge
+  lecture_description: >
+    <p>
+      Die Vorträge werden das gesamte Kalenderjahr über abgehalten und behandeln eine Vielzahl von Themen rund um die Programmiersprache Python. Ziel dieser Vorträge ist es, fortgeschrittene Funktionen der Sprache in spezifischen Anwendungsbereichen anzuwenden. Auch das Modellieren in FreeCAD wird in geringerem Umfang unterrichtet.
+      Die Vorträge sind ausschließlich für Vereinsmitglieder zugänglich.
+    </p>
+    <p>
+      Die Vorträge beginnen am Samstag, dem 1. Juli 2023, und finden alle zwei Wochen samstags von 9:00 bis 12:00 Uhr statt, einschließlich 15-minütiger Pausen.
+    </p>
+    <p>
+      Die Vorträge umfassen folgende Themen:<br>
+      <br>
+      • Programmierung mit Python in den folgenden Bereichen: <br>
+      <p class="indented-tab">
+      1. Webentwicklung: Erstellung einer einfachen Einzelseiten-Website mit eigenem Lebenslauf, Erstellung eines sozialen Netzwerks, Web Scraping<br>
+      2. Softwareentwicklung: Erstellung von Rechnungsanwendungen, Vertragsverfassung<br>
+      3. Spielentwicklung: Erstellung eines Robocode-Spiels<br>
+      4. P2P-Technologie: Erstellung einer E-Mail- und Chat-Anwendung<br>
+      5. Blockchain-Technologie: Abstimmungssystem für den Verein<br>
+      6. Data Science: Anwendung in der Finanzwelt<br>
+      7. Maschinelles Lernen (ML): Überprüfung von medizinischen Bildern und Dokumentationen zur Bestimmung von Krankheiten anhand von Symptomen<br>
+      8. Internet der Dinge (IoT): Anwendung von Raspberry Pi im Alltag<br>
+      9. Algorithmen: Anwendung grundlegender Algorithmen
+      </p>
+      • Modellieren in FreeCAD:
+      <p class="indented-tab">
+      1. 3D-Modellierung<br>
+      2. 3D-Druck
+      </p>
+      • Einführung der Programmiersprachen C++ und Rust in den Vorträgen während des Jahres 2024 in den folgenden Bereichen:
+      <p class="indented-tab">
+      1. Spielentwicklung: Erstellung professioneller Spiele<br>
+      2. Systementwicklung: Verbesserung des Betriebssystems Redox, Tock oder IntermezzOS<br>
+      3. Softwareentwicklung: Antivirenprogramm
+      </p>
+    </p>
+  workshop: Workshops
+  workshop_description: >
+    <p>    
+      • Für das Jahr 2023:
+      <p class="indented-tab">
+      ◦ Winter: Python Webentwicklung<br>
+      ◦ Sommer: 3D-Modellierung
+      </p>
+      • Für das Jahr 2024:
+      <p class="indented-tab">
+      ◦ Winter: Data Science<br>
+      ◦ Sommer: IoT (Internet der Dinge)
+      </p>
+      Die Workshops stehen allen interessierten Personen offen, wobei Vereinsmitglieder aufgrund der begrenzten Teilnehmerzahl Vorrang haben.
+    </p>
+  seminar: Seminare
+  seminar_description: >
+    <p>    
+      • Für das Jahr 2023: Rust-Programmiersprache<br>
+      <br>
+      • Für das Jahr 2024: Gaming-Branche<br>
+      <br>
+      Die Seminare stehen allen interessierten Personen offen, wobei Vereinsmitglieder aufgrund der begrenzten Teilnehmerzahl Vorrang haben.
+    </p>

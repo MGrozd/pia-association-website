@@ -1,0 +1,217 @@
+# base
+base:
+  association_name1: "Udruga"
+  association_name2: "\"Programiranje i algoritmi\""
+  association_name3: "Đakovo"
+  news: "Novosti"
+  program: "Program"
+  about_us: "O&nbsp;nama"
+  membership: "Članstvo"
+
+# home
+news3_title: "NAJAVA predavanja s početkom 15. srpnja 2023. godine"
+news3_theme: "Tema: Izrada aplikacije za izdavanje računa i ponuda u Pythonu"
+news3_description: >
+  Tijekom predavanja polaznici će naučiti koristiti programski jezik <a href="https://www.python.org/">Python</a> u komercijalne svrhe u 
+  različitim područjima u kojima se primjenjuje.
+  <br>
+  <br>
+  Predavanja će se za ovu godinu održavati svake druge subote počevši od 15. srpnja 2023. godine, i to online u vremenskom rasponu od 9:00 do 12:00 sati s pauzama od 15 minuta nakon svakih 45 minuta.
+  <br>
+  <br>
+  Prva tema predavanja će biti izrada aplikacije za izdavanje računa i ponuda.
+  Prije svakog predavanja polaznici će dobiti dan ranije obavijest putem elektroničke pošte s opisom predavanja i poveznicom na online predavanje.
+  <br>
+  Prijaviti se možete putem elektroničke adrese <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a>.
+  <br>
+  <br>
+  Prijavite se što prije jer je broj mjesta ograničen!
+  <br>
+  Radujemo se Vašem odazivu!<img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+news2_title: "Ljetna radionica 2023."
+news2_theme: "Tema: 3D modeliranje i printanje"
+news2_description: >
+  Radionica se održala dana 23. i 30. rujna 2023. godine na lokaciji <a href="https://goo.gl/maps/aS7w5JrytcUvL2Zx7">Gimnazija Antuna Gustava Matoša Đakovo</a><br>
+  <br>
+  Na radionici sudionici su naučili koristiti FreeCAD program za 3D računalno modeliranje. 
+  Nakon uspješnog završetka radionice svaki polaznik je dobio za uspomenu 3D model.<br>
+  <br>
+  Polaznicima se želimo zahvaliti na sudjelovanju u izradi te na svim sugestijama koje su predlagali!
+  <img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+news1_title: "Zimska radionica 2023."
+news1_theme: "Tema: Python Web Development"
+news1_description: >
+  Radionica je održana u periodu od 2. siječnja do 5. siječnja 2023. godine u Gimnaziji A. G. Matoša Đakovo, a tema radionice bila 
+  je Python Web development.<br>
+  <br>
+  Na radionici sudionici su naučili koristiti razne alata za razvoj programa i kako napraviti internet stranicu. Pobliže, naučili su koristiti 
+  Visual Studio Code (IDE) za uređivanje koda i GIT alat za verzioniranje istog koda. Osim toga, naučili su koristiti Python 
+  programski jezik i njegov micro web framework-a za backend te HTML, CSS i Bootstrap5 za frontend internet stranice, dok su za spremanje podataka 
+  koristili bazu SQLite. Polaznici su sudjelovali u izradi internet stranice za udrugu Programiranje i algoritmi koja je kasnije postala 
+  osnova za trenutnu internet stranicu.<br>
+  <br>
+  Polaznicima se želimo zahvaliti na sudjelovanju u izradi te na svim sugestijama koje su predlagali!
+  <img src="static/assets/img/face_smile.png" style="height: 32px"></img>
+modal_button: "SAZNAJ VIŠE..."
+modal_close_button: Zatvori
+previous_carousel: "Prethodni"
+next_carousel: "Sljedeći"
+
+# about
+about: >
+  <p>Sjedište: Certisa 33, 31400 Đakovo<br>
+      OIB: 29479394969<br>
+      Registarski broj: 14005049<br>
+      Osobe ovlaštene za zastupanje: Matej Grozdanić - predsjednik; Dario Došlić - dopredsjednik; Anja Grozdanić - tajnica<br>
+      Žiroračun: Hrvatska poštanska banka (HPB) HR4423900011101367149
+  </p>
+  <p>URL <a href="https://programiranjeialgoritmi.hr">https://programiranjeialgoritmi.hr</a></p>
+  <p>Elektronička adresa (e-mail): <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a></p>
+  <p>Udruga Programiranje i algoritmi je osnovana s ciljem promicanja, razvitka i unapređenja obrazovanja mladih
+      u području informacijskih tehnologija, digitalizacije, robotike i tehnike.
+  </p>
+  <br>
+  <h5>Ciljevi udruge Programiranje i algoritmi</h5>
+  <br>
+  <p>– unapređenje obrazovanja članova Udruge na području djelovanja/odgovornosti Udruge,<br>
+      – učinkovita provedba obrazovne djelatnosti na području djelovanja/odgovornosti Udruge,<br>
+      – osposobljavanje, usavršavanje i uvježbavanje članova,<br>
+      – promicanje značaja informacijskih tehnologija i primjena na održivi razvoj,<br>
+      – razvijanje cjeloživotnog obrazovanja i usavršavanje,<br>
+      – razvijanje mekih vještina kao što su usmena/pismena komunikacija, timski rad/suradnja, kritičko razmišljanje/rješavanje problema,<br>
+      – razvijanje pozitivnih ljudskih vrijednosti poput solidarnosti, nesebičnosti i prijateljstva,<br>
+      – moralno, etički i odgojno djelovati na mlade i ukupno članstvo kao i na korisnike programa Udruge kroz ukupnu djelatnost.
+  </p>
+  <br>
+  <h5>Program rada udruge Programiranje i algoritmi</h5>
+  <br>
+  <p>
+  Plan i program rada Udruge provodit će se prema programu koji se može naći na stranici.
+  Osim predavanja, radionica i seminara za razvoj Udruge izradit će se internet stranica te knjigovodstveni program za financijska izvješća Udruge,
+  koji će se u budućnosti proširiti na sve administrativne poslove (organizacija rada). Predviđeno vrijeme izrade istih je unutar tekuće 2023. godine.
+  </p>
+
+# privacy_policy
+privacy_policy: >
+  <h5>POLITIKA ZAŠTITE PRIVATNOSTI OSOBNIH PODATAKA UDRUGE PROGRAMIRANJE I ALGORITMI</h1>
+  <p>
+      25. svibnja 2018. godine u Hrvatskoj započinje primjena Opća uredbe (EU) o zaštiti podataka, Uredba (EU) 2016/679 o zaštiti pojedinaca u vezi s 
+      obradom osobnih podataka i o slobodnom kretanju takvih podataka. Sukladno Uredbi
+      o zaštiti podataka (dalje: Uredba) uskladili smo svoje poslovanje vezano za obradu i zaštitu osobnih podataka, a kako je uređeno ovom Politikom 
+      zaštite privatnosti osobnih podataka udruge Programiranje i algoritmi (dalje: Politika).<br>
+      <br>
+      Programiranje i algoritmi, Certisa 33, Đakovo, OIB: 29479394969 (dalje: Udruga), obrađuje one osobne podatke koje ste nam sami dali popunjavanjem 
+      Prijavnice prilikom učlanjenja u Udrugu, a koji su nam neophodni kako bismo Vam odobrili prijavu u članstvo Udruge sukladno odredbama Zakona o 
+      Udrugama (Narodne Novine, br. 74/14), odredbama Uredbe i ove Politike. Udruga će pažljivo i s krajnjim oprezom pohraniti i čuvati sve vaše osobne 
+      podatke koje ste nam dali i neće ih prosljeđivati bez vaše prethodne suglasnosti drugim osobama, trećoj zemlji ili međunarodnoj organizaciji, osim 
+      nadležnim tijelima na njihov zahtjev. Udruga Vaše osobne podatke obrađuje sukladno Vašim pravima definiranim unutar Uredbe.<br>
+      <br>
+      Politika je temeljni akt koji za svrhu ima uspostavljanje okvira zaštite osobnih podataka sukladno Uredbi. Ova Politika primjenjuje se na obradu 
+      osobnih podataka koju vršimo sukladno ciljevima, djelatnostima i Statutu udruge Programiranje i algoritmi, odredbama Uredbe i ove Politike, i 
+      primjenjuje se na sve obrade osobnih podataka unutar Udruge. Cilj Politike je uspostaviti primjerene procese zaštite upravljanja osobnim podacima ispitanika.<br>
+      <br>
+      Osobnim podacima smatraju se svi podaci koji se odnose na pojedinca čiji je identitet utvrđen ili se može utvrditi (ispitanik).<br>
+      <br>
+      Ispitanik je fizička osoba koja se može identificirati izravno ili neizravno osobito uz pomoć identifikatora kao što su ime, OIB, podaci o 
+      lokaciji, mrežni identifikator ili uz pomoć jednog ili više čimbenika svojstvenih za fizički, fiziološki, genetski, mentalni, ekonomski, kulturni 
+      ili socijalni identitet tog pojedinca.<br>
+      <br>
+      Privola je svako dobrovoljno, posebno, informirano i nedvosmisleno izražavanje želja ispitanika kojim on izjavom ili jasnom potvrdnom radnjom daje 
+      pristanak za obradu osobnih podataka koji se na njega odnose.<br>
+      <br>
+      Izvršitelj obrade je fizička ili pravna osoba, tijelo javne vlasti, agencija ili drugo tijelo koje obrađuje osobne podatke u ime i po nalogu 
+      voditelja obrade.<br>
+  </p>
+  <br>
+  <h5>Načela obrade osobnih podataka</h5>
+  <p>
+      Obzirom da osobne podatke prikupljamo izravno od Vas, naših članova, u nastavku Vam želimo pružiti sve informacije o tome zašto i kako obrađujemo 
+      Vaše osobne podatke koje ste nam dali prilikom učlanjenja u udrugu Programiranje i algoritmi.<br>
+      <br>
+      Udruga Vaše osobne podatke obrađuje u skladu sa sljedećim načelima obrade:
+      <br>
+      <b>– zakonitost, poštenost i transparentnost obrade:</b> što znači da obrada mora biti u skladu s određenim pravnim temeljem, a načelima poštene 
+      i transparentne obrade zahtijeva se da je pojedinac informiran o postupku obrade i njegovim svrhama, ograničavanje svrhe znači da podaci trebaju 
+      biti prikupljeni u posebne, izričite i zakonite svrhe te se dalje ne smiju obrađivati na način koji nije u skladu s tim svrhama;<br>
+      <b>– smanjenje količine podataka:</b> znači da podaci moraju biti primjereni, relevantni i ograničeni na ono što je nužno u odnosu na svrhe u koje 
+      se obrađuju;<br>
+      <b>– točnost:</b> to znači da podaci moraju biti točni i ažurni, mora se poduzeti svaka razumna mjera radi osiguravanja da se osobni podaci koji 
+      nisu točni, uzimajući u obzir svrhe u koje se obrađuju, bez odlaganja izbrišu ili isprave;<br>
+      <b>– ograničenje pohrane:</b> znači da podaci moraju biti čuvani u obliku koji omogućuje identifikaciju ispitanika samo onoliko dugo koliko je 
+      potrebno u svrhe radi kojih se osobni podaci obrađuju;<br>
+      <b>– cjelovitost i povjerljivost:</b> znači da podaci moraju biti obrađivani na način kojim se osigurava odgovarajuća razina sigurnosti, 
+      uključujući zaštitu od neovlaštene ili nezakonite obrade te od slučajnog gubitka, uništenja ili oštećenja;<br>
+      <b>– pouzdanost:</b> znači da je Udruga odgovorna za poštivanje načela i da je teret dokaza na voditelju obrade.<br><br>
+          Svrha obrade radi kojih upotrebljavamo Vaše osobne podatke kao i pravna osnovu za obradu osobnih podataka Svrha obrade Vaših osobnih podataka
+          je vođenje evidencije članstva u Udruzi. Pravni temelj obrade vaših podataka nalazi se u Zakonu o udrugama (Narodne Novine, br. 74/14), 
+          sukladno kojem je Udruga dužna voditi popis svojih članova s obveznim osobnim podacima o imenu, prezimenu, osobnom identifikacijskom broju, 
+          datumu rođenja, datumu pristupanja, a može sadržavati i ostale podatke koji spadaju u osobne podatke. Osobni podaci koje Udruga prikuplja od 
+          Vas su:
+      <br>
+      – ime i prezime,<br>
+      – elektronička adresa (e-mail),<br>
+      – datum rođenja,<br>
+      – osobni identifikacijski broj (OIB),<br>
+      – adresa prebivališta (ulica, kućni broj, grad, poštanski broj, županija),<br>
+      – brojevi telefona,<br>
+      – spol,<br>
+      – datum pristupanja udruzi,<br>
+      – status uplate članarine,<br>
+      – kategorija članstva,<br>
+      – datum prestanka članstva u udruzi.<br>
+      <br>
+      Sukladno svrsi obrade Udruga će Vaše osobne podatke obrađivati isključivo za:<br>
+      – provjeru članstva u udruzi,<br>
+      – provjeru obaveze uplate članarine,<br>
+      – provjeru točnosti i ispravnosti, odnosno ažuriranje osobnih podataka,<br>
+      – telefonsku ili e-mail komunikaciju s članom<br>
+      <br>
+      Osim toga, Vaše ćemo osobne podatke obrađivati u svrhu slanja e-obavijesti na Vaše e-mail adrese koje Udruga može slati o novostima, događajima, 
+      edukacijama, projektima, aktivnostima, konzultacijama, tribinama, savjetovanjima, anketama i obvezi uplate članarine, a koje provodi u svrhu 
+      poboljšanja i zaštite Vaših potrošačkih prava kao korisnika financijskih i kreditnih usluga.
+      <br>
+      <br>
+          Vremensko razdoblje čuvanje Vaših podataka<br>
+      
+          Vaše ćemo osobne podatke čuvati za vrijeme potrebno za postizanje odgovarajućih opisanih svrha, odnosno sve dok želite ostati s nama u kontaktu 
+          i dok želite primati naše obavijesti sukladno privoli koju ste nam dali prilikom pristupanju članstvu Udruge, odnosno dok ne povučete privolu 
+          koju ste nam dali u određene svrhe. Ukoliko i kada zaprimimo Vaš zahtjev za brisanjem podataka, opoziv privole, zahtjev za ograničenjem 
+          obrade Vaših osobnih podataka, odnosno bilo koji sličan prigovor, odmah ćemo postupiti prema Vašem zahtjevu te će pohrana osobnih podataka 
+          u određenom roku biti jedini način njihove obrade prije njihova trajnog brisanja. Navedena prava možete ostvariti slanjem pismenog zahtjeva 
+          na pia.djakovo@gmail.com<br>
+      <br>
+          Zaštita Vaših osobnih podataka<br>
+          Zaštita i sigurnost Vaših osobnih podataka najvažniji nam je zadatak i prioritet. Iz tog razloga obrađujemo Vaše osobne podatke u skladu s 
+          Uredbom, uz primjenu odgovarajućih tehničkih i organizacijskih mjera za sprječavanje neovlaštenog pristupa, zlouporabe, otkrivanja, gubitka 
+          ili uništenja osobnih podataka.<br>
+      <br>
+          Svjesni smo da su osobni podaci Vaše vlasništvo i Vi uvijek i u svakom trenutku možete zatražiti i iskoristiti sljedeća prava:<br>
+      <br>
+          Pravo na brisanje („pravo na zaborav“) kojim možete zatražiti brisanje svojih osobnih podataka iz registra Udruge:<br>
+            - ako isti više nisu nužni u odnosu na svrhu prikupljanja<br>
+            - ako povučete privolu, a ne postoji druga pravna osnova za obradu podataka<br>
+            - ako su osobni podaci nezakonito obrađeni<br>
+            - ako se moraju brisati zbog poštovanja pravne obveze prema važećim pravnim propisima<br>
+      <br>
+          Pravo na pristup podacima kojim imate pravo dobiti od Udruge informacije vezane uz postupak prikupljanja i obrade Vaših osobnih podataka, pravo 
+          dobiti od nas potvrdu obrađuju li se osobni podaci koji se na Vas odnose, te ako se takvi osobni podaci obrađuju, pristup svojim osobnim 
+          podacima, uključujući pravo dobiti kopiju osobnih podataka koji se obrađuju.
+          Pravo na ispravak, odnosno nadopunu netočnih osobnih podataka kojim imate bez nepotrebnog odgađanja ishoditi od Udruge ispravak netočnih 
+          osobnih podataka koji se na Vas odnose. Pravo na ograničavanje obrade u sljedećim slučajevima:<br>
+          ako osporavate točnost svojih osobnih podataka, na razdoblje kojim se nama omogućuje provjera točnosti osobnih podataka;<br>
+          ako je obrada nezakonita, ali se protivite brisanju Vaših osobnih podataka te umjesto toga tražite ograničenje njihove uporabe;<br>
+          ako mi više ne trebamo Vaše osobne podatke za potrebe obrade, ali ih Vi tražite radi postavljanja, ostvarivanja ili obrane pravnih zahtjeva;<br>
+      <br>
+          Pravo na prigovor kojim imate pravo u svakom trenutku uložiti prigovor na obradu Vaših osobnih podataka koji se obrađuju na temelju javnog 
+          interesa ili legitimnih interesa voditelja obrade. Možete u svakom trenutku zahtijevati realizaciju bilo kojeg od gore navedenih prava putem 
+          e-pošte <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a>. Udruga će na sve Vaše zahtjeve o poduzetim radnjama vezanim uz navedena 
+          prava pružiti pismeni odgovor u roku od 30 dana od zaprimanja zahtjeva, uz najviše produljenje odgovora od 30 dana kada je to nužno. Ako u bilo 
+          kojem trenutku želite povući privolu za danu suglasnost o slanju obavijesti na Vašu e-mail adresu, možete uputiti zahtjev na adresu 
+          e-pošte <a href="mailto:pia.djakovo@gmail.com">pia.djakovo@gmail.com</a>.<br>
+      <br>
+      Pritužba na obradu osobnih podataka podnosi se nadzornom tijelu na adresu:<br>
+      Agencija za zaštitu osobnih podataka, Martićeva 14, Zagreb.<br>
+      <br>
+      Udruga Programiranje i algoritmi<br>
+      U Đakovu, 1. srpnja 2023.
+  </p>

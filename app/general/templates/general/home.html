@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+
+{% block header_title1 %} {{ base.association_name1 }} {% endblock %}
+{% block header_title2 %} {{ base.association_name2 }} {% endblock %}
+{% block header_title3 %} {{ base.association_name3 }} {% endblock %}
+{% block header_news %} {{ base.news }} {% endblock %}
+{% block header_program %} {{ base.program }} {% endblock %}
+{% block header_about_us %} {{ base.about_us | safe }} {% endblock %}
+{% block header_membership %} {{ base.membership }} {% endblock %}
+
+{% block content %}
+    <!-- Section -->
+    <section>
+        <div class="container px-4 px-lg-5 mt-5">
+            <div id="carousel1" class="carousel carousel-dark slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carousel1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carousel1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carousel1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner" style="height: 65vh;">
+                    <div class="carousel-item active" data-bs-interval="3000" style="height: 65vh;">
+                        <img src="static/assets/gif/2023/press-any-key-any-key.gif" class="d-block img-carousel" style="max-height: 65vh; max-width: 90vh; width:auto" alt="python code">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>{{ news3_title }}</h5>
+                            <br>
+                            <p class="p-carousel-caption">{{ news3_theme }}</p>
+                            <br>
+                            <br>
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#modal3">{{ modal_button }}</button>
+                        </div>
+                        <!-- Modal -->
+                        <div class="modal fade" id="modal3" tabindex="-1" aria-labelledby="modal3Label" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">{{ news3_title }}</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="modal-subtitle">{{ news3_theme }}</div><br>
+                                        <br>
+                                        <img src="static/assets/img/2023/python_code.jpg" style="max-height: 30vh; width:auto;"><br>
+                                        <br>
+                                        <p>{{ news3_description | safe }}</p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ modal_close_button }}</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item" data-bs-interval="3000" style="height: 65vh;">
+                        <img src="static/assets/gif/2023/finished_dice.gif" class="d-block img-carousel" style="max-height: 65vh; width:auto;" alt="Dice animation">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>{{ news2_title }}</h5>
+                            <br>
+                            <p class="p-carousel-caption">{{ news2_theme }}</p>
+                            <br>
+                            <br>
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#modal2">{{ modal_button }}</button>
+                        </div>
+                        <!-- Modal -->
+                        <div class="modal fade" id="modal2" tabindex="-1" aria-labelledby="modal2Label" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">{{ news2_title }}</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="modal-subtitle">{{ news2_theme }}</div><br>
+                                        <br>
+                                        <img src="static/assets/img/2023/3d_print.jpg" style="max-height: 30vh; width:auto;"><br>
+                                        <br>
+                                        <p>{{ news2_description | safe }}</p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ modal_close_button }}</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item" data-bs-interval="3000" style="height: 65vh;">
+                        <img src="static/assets/img/2023/zimska_radionica_2023_1.jpg" class="d-block img-carousel" style="max-height: 65vh; width: auto">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>{{ news1_title }}</h5><br>
+                            <p class="p-carousel-caption">{{ news1_theme }}</p><br>
+                            <br>
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#modal1">{{ modal_button }}</button>
+                        </div>
+                        <!-- Modal -->
+                        <div class="modal fade" id="modal1" tabindex="-1" aria-labelledby="modal1Label" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">{{ news1_title }}</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="modal-subtitle">{{ news1_theme }}</div><br>
+                                        <br>
+                                        <img src="static/assets/img/2023/zimska_radionica_2023_2.jpg" style="max-height: 30vh; width: auto"><br>
+                                        <br>
+                                        <p>{{ news1_description | safe }}</p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ modal_close_button }}</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carousel1" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">{{ previous_carousel }}</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carousel1" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">{{ next_carousel }}</span>
+                </button>
+            </div>
+        </div>
+    </section>
+{% endblock %}

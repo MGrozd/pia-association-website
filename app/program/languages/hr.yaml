@@ -1,0 +1,78 @@
+base:
+  association_name1: "Udruga"
+  association_name2: "\"Programiranje i algoritmi\""
+  association_name3: "Đakovo"
+  news: "Novosti"
+  program: "Program"
+  about_us: "O&nbsp;nama"
+  membership: "Članstvo"
+
+program:
+  title: Program za 2023. i 2024. godinu
+  description: >
+    Udruga Programiranje i algoritmi će tijekom 2023. i 2024. godine za sve članove provoditi predavanja iz područja Python programskog jezika, modeliranja u 
+    FreeCAD-u te uvođenje C++ i Rust programskih jezika.
+    Osim toga, održavat će se mnogobrojne radionice s ciljem educiranja svih zainteresiranih skupina u prethodno navedenim područjima. <br>
+  lecture: predavanja
+  lecture_description: >
+    <p>
+        Predavanja će se održavati tijekom cijele kalendarske godine, a obrađivat će se široki skup tema iz programskog jezika Python. Svrha ovih predavanja
+        je naučiti primjenjivati napredne mogućnosti spomenutog jezika u određenim područjima u kojima se
+        primjenjuje. Također će se u manjem opsegu podučavati modeliranje u programu FreeCAD.
+        Predavanja se održavaju isključivo za članove Udruge.
+    </p>
+    <p>
+        Predavanja će početi u subotu dana 1.7.2023. i održavat će se svake druge subote (svaka 2 tjedna) od 9:00 do 12:00 sati s uključenim 
+        pauzama u trajanju od 15 minuta.
+    </p>
+    <p>
+        Prema tematici predavanja će uključivati:<br>
+        <br>
+        • Programiranje Python programskim jezikom u područjima: <br>
+        <p class="indented-tab">
+        1. Web development: izrada jednostavne stranice (onepage) s vlastitim životopisom, izrada društvene mreže, web scraping<br>
+        2. Software development: izrada aplikacija za izdavanje računa, pisanje ugovora<br>
+        3. Game development: izrada Robocode igre<br>
+        4. P2P technology: izrada email i chat aplikacije<br>
+        5. Blockchain technology: sustav glasovanja za udrugu<br>
+        6. Data Science: primjena u financijama<br>
+        7. Machine learning (ML): pregled medicinskih slika i dokumentacije te određivanje bolesti prema simptomima<br>
+        8. Internet of things (IoT): primjena Raspberry Pi u svakodnevici<br>
+        9. Algorithms: primjena osnovnih algoritama
+        </p>
+        • Modeliranje u programskom rješenju FreeCAD:
+        <p class="indented-tab">
+        1. 3D modeliranje<br>
+        2. 3D printanje
+        </p>
+        • Uvođenje C++ i Rust programskog jezika u predavanje tijekom 2024. godine u područjima:
+        <p class="indented-tab">
+        1. Game development: izrada profesionalnih igrica<br>
+        2. System development: poboljšanje operacijskog sustava Redox ili Tock ili IntermezzOS<br>
+        3. Software development: antivirusni program
+        </p>
+    </p>
+  workshop: radionice
+  workshop_description: >
+    <p>    
+        • za 2023. godinu:
+        <p class="indented-tab">
+        ◦ zimske: Python web development<br>
+        ◦ ljetne: 3D modeliranje
+        </p>
+        • za 2024. godinu:
+        <p class="indented-tab">
+        ◦ zimske: Data science<br>
+        ◦ ljetne: IoT
+        </p>
+        Radionice su otvorene za sve zainteresirane, no prednost imaju članovi Udruge radi ograničenog broja mjesta.
+    </p>
+  seminar: seminari
+  seminar_description: >
+    <p>    
+        • za 2023. godinu: Rust programski jezik<br>
+        <br>
+        • za 2024. godinu: Gaming industrija<br>
+        <br>
+        Seminari su otvoreni za sve zainteresirane, no prednost imaju članovi Udruge radi ograničenog broja mjesta.
+    </p>
